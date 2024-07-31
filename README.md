@@ -7,7 +7,9 @@
 
 ## **Tahapan Pengerjaan:**
 1. Persiapan data: load dan merge
-2. Melatih model time series dengan prophet
-3. Normalisasi fitur
-4. Tuning dan Ensemble
-5. Evaluasi model
+2. Pra-pemrosesan data
+3. Melatih model time series dengan prophet
+4. Split data train dan test
+5. Feature Engineering
+6. Tuning dan Ensemble
+7. Evaluasi model
